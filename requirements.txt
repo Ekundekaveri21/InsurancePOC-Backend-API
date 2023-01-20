@@ -1,0 +1,7 @@
+pip install fastapi==0.79.0
+pip install flake8==4.0.1
+pip install isort==5.10.1
+pip install ipython==8.4.0
+pip install neo4j==5.1.0
+pip install strawberry-graphql==0.124.0
+pip install uvicorn[standard]==0.18.2
